@@ -25,11 +25,17 @@ Technologies and Tools
 The project employs a range of technologies and tools, including:
 
 Python: The programming language used for the project.
+
 Pandas: A library for data manipulation and analysis.
+
 NumPy: A library for numerical computations.
+
 Seaborn: A library for data visualization.
+
 Matplotlib: A library for data visualization.
+
 Scikit-learn: A library for machine learning.
+
 Keras: A library for deep learning.
 
 
